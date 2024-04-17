@@ -1,1 +1,1 @@
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE3MTMzNTMzNDAsImp0aSI6ImY2ZTNjMjUwOTY3NjQyZWE5MTUwZTNiNzQ0NWE0OWNkIn0.WrQJR-JRteUhPyGP4EEfI2EkAIc1FsG4c57lEPE94t8
+wget https://github.com/IBM/cloud-pak/raw/master/repo/case/ibm-cp-automation/5.1.2/ibm-cp-automation-5.1.2.tgz
